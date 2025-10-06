@@ -5,3 +5,5 @@ ini baru ini ganti
 ini baru lagi pr 2
 
 update lagi dong 2
+
+update script lg

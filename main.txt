@@ -1,9 +1,7 @@
 First init
 
-ini baru ini ganti
+Ini tambahan lagi ya panjang banget apa saja lah yaa
 
-ini baru lagi pr 2
 
-update lagi dong 2
-
-update script lg 2
+ini lorem ipsum
+dolor

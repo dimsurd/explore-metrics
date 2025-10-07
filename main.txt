@@ -1,5 +1,3 @@
 First init
 
-ini baru ini ganti
-
-ini baru lagi pr 2
+Ini tambahan lagi ya panjang banget
